@@ -4,16 +4,16 @@ Application en React Native sur le jeux AOE Age Of Empire II, permet d'afficher 
 ```
 
 # Tables des matières 
-• [Auteur]
-• [Outils]
-• [Avant de commencer]
-• [Installation]
+- [Auteur]
+- [Outils]
+- [Avant de commencer]
+- [Installation]
 
 # Auteur
 
 ## Outils
-• npm
-• expo
+- npm
+- expo
 
 ## Avant de commencer
 
